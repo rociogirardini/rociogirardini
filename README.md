@@ -6,7 +6,7 @@
 <p><img align="right" src="https://user-images.githubusercontent.com/94999063/183117672-a04e418d-9fe1-4cfa-a80c-b5eefe492f52.png" alt="rg-avatar" /></p>
 
 
-- 🌱 I’m currently learning more about Web Development and other programming languages, such as Kotlin.
+- 🌱 I’m currently learning more about Web Development and other programming languages, such as Vue js.
 
 - 📫 How to reach me **rogirardini@gmail.com**
 
