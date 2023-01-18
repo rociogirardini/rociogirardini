@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rocío Girardini</h1>
-<h3 align="center"> Junior React-Js Front-End developer 🌟.</h3>
+<h3 align="center"> Front-End developer 🌟.</h3>
 
 <br>
 
@@ -49,7 +49,7 @@
       src="https://cdn-icons-png.flaticon.com/512/552/552220.png"
       alt="photoshop" width="40" height="40" /> </a><a href="https://www.adobe.com/ar/products/premiere.html" target="_blank" rel="noreferrer"> <img
       src="https://cdn-icons-png.flaticon.com/512/552/552225.png"
-      alt="premiere" width="40" height="40" /> </a>
+      alt="premiere" width="40" height="40" /> </a> 
 
 <br>
 
