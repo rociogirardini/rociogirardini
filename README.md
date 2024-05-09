@@ -6,7 +6,7 @@
 <p><img align="right" src="https://user-images.githubusercontent.com/94999063/183117672-a04e418d-9fe1-4cfa-a80c-b5eefe492f52.png" alt="rg-avatar" /></p>
 
 
-- 🌱 I’m currently learning more about Web Development and other programming languages, such as Vue js.
+- 🌱 I’m currently learning more about Web Development and other programming languages, such as Python and Node.js.
 
 - 📫 How to reach me **rogirardini@gmail.com**
 
@@ -31,9 +31,17 @@
       src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png"
       alt="sass" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
       src="https://cdn-icons-png.flaticon.com/512/919/919828.png"
-      alt="js" width="40" height="40" /> </a> <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"> <img
+      alt="js" width="40" height="40" /> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
+      src="https://cdn-icons-png.flaticon.com/512/919/919832.png"
+      alt="ts" width="40" height="40" /> </a> <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://cdn-icons-png.flaticon.com/512/919/919851.png"
-      alt="reactjs" width="40" height="40" /> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img
+      alt="reactjs" width="40" height="40" /> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img
+      src="https://cdn.iconscout.com/icon/free/png-256/free-vuejs-3-1175070.png"
+      alt="vuejs" width="40" height="40" /> <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img
+      src="https://cdn-icons-png.flaticon.com/512/919/919825.png"
+      alt="nodejs" width="40" height="40" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img
+      src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"
+      alt="python" width="40" height="40" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img
       src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"
       alt="vsc" width="40" height="40" /> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/768px-Git_icon.svg.png"
